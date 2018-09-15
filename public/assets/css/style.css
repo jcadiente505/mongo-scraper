@@ -1,0 +1,19 @@
+body, html {
+  height: 100%;
+  margin: 0%;
+}
+
+body {
+  margin: 0%;
+  background-color: black;
+  height: 100vh;
+}
+
+.jumbotron {
+  background-image: url(../img/mainbackground.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: 70%;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
